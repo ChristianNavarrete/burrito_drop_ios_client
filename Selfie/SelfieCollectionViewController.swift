@@ -6,6 +6,10 @@
 //  Copyright (c) 2014 subhb.org. All rights reserved.
 //
 
+
+// yo this is the selfieCollectionViewController
+
+
 import UIKit
 
 let reuseIdentifier = "SelfieCollectionViewCell"
