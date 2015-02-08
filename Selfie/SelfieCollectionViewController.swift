@@ -7,7 +7,6 @@
 //
 
 
-// yo this is the selfieCollectionViewController
 
 
 import UIKit
